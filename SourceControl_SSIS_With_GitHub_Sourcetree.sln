@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SourceControl_SSIS_With_GitHub_Sourcetree", "SourceControl_SSIS_With_GitHub_Sourcetree\SourceControl_SSIS_With_GitHub_Sourcetree.dtproj", "{DE293070-67B6-49A6-83AB-E243FCF7AFE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE293070-67B6-49A6-83AB-E243FCF7AFE4}.Development|Default.ActiveCfg = Development
+		{DE293070-67B6-49A6-83AB-E243FCF7AFE4}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
